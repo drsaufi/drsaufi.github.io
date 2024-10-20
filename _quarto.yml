@@ -14,6 +14,15 @@ website:
       - about.qmd
       - services.qmd
       - books.qmd
+      - text: Contact
+        menu:
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/drsaufi/
+            target: _blank
+          - icon: envelope
+            text: Email
+            href: mailto:drsaufimbbch@gmail.com
   page-footer: 
     background: light
     left: © 2024 Dr Muhammad Saufi Abdullah
