@@ -13,7 +13,7 @@ website:
         text: Home
       - about.qmd
       - services.qmd
-      - books.qmd
+      - ebooks.qmd
       - text: Contact
         menu:
           - icon: linkedin

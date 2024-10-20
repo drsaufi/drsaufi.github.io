@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "I am passionate about sharing knowledge, solving problems, and helping teams achieve their goals. Whether you need expert guidance or dynamic presentations, I am here to assist!"
+  },
+  {
+    "objectID": "services.html#consultations-and-workshops",
+    "href": "services.html#consultations-and-workshops",
+    "title": "Services",
+    "section": " Consultations and Workshops",
+    "text": "Consultations and Workshops\nLooking for personalized advice or hands-on workshops? I am here to support you with tailored solutions for your research. Let’s dive into your project and find the best path forward!\n\nResearch Proposal Development\nStatistical Analysis and Interpretation\nData Visualization and Reporting\nSurvey Design and Data Collection\nEpidemiological Studies and Public Health Research"
+  },
+  {
+    "objectID": "services.html#talks-and-presentations",
+    "href": "services.html#talks-and-presentations",
+    "title": "Services",
+    "section": " Talks and Presentations",
+    "text": "Talks and Presentations\nNeed an engaging speaker to inspire your team or audience? My talks are designed to inform, motivate, and ignite action. Let’s get started!\n\nPublic Health and Epidemiology\nStatistical Analysis in Research\nHealth Promotion and Disease Prevention\nMental Health Awareness\nEffective Communication and Team Building\nMastering Public Speaking and Presentation Skills"
+  },
+  {
+    "objectID": "ebooks.html",
+    "href": "ebooks.html",
+    "title": "eBooks",
+    "section": "",
+    "text": "Explore my collection of ebooks designed to empower you in both data science and public speaking. Whether you are diving into coding or honing your communication skills, these guides will help you grow with confidence. Start your journey today!"
+  },
+  {
+    "objectID": "ebooks.html#r-workflow-essentials",
+    "href": "ebooks.html#r-workflow-essentials",
+    "title": "eBooks",
+    "section": "R Workflow Essentials",
+    "text": "R Workflow Essentials\n\n\n\n\n\nMaster the essentials of R and RStudio with ease! R Workflow Essentials is your go-to guide for learning the basics of coding in R, tailored specifically for beginners or anyone needing a refresher. This ebook simplifies the complexities of R, offering clear, engaging lessons that make learning fun and manageable. Whether you are stepping into RStudio for the first time or need a little help getting back on track, this guide will help you confidently navigate R and Quarto to kickstart your data analysis journey.\nReady to elevate your R skills? Get your copy here!"
+  },
+  {
+    "objectID": "ebooks.html#tips-for-becoming-a-great-speaker",
+    "href": "ebooks.html#tips-for-becoming-a-great-speaker",
+    "title": "eBooks",
+    "section": "10 Tips for Becoming a Great Speaker",
+    "text": "10 Tips for Becoming a Great Speaker\n\n\n\n\n\nUnlock the power of effective communication with this practical guide. This ebook provides easy-to-apply strategies to boost your confidence, build leadership qualities, and inspire others through your words. Whether you’re just starting out or looking to refine your skills, this guide will show you how to captivate your audience, deliver your message with clarity, and leave a lasting impact in both professional and personal settings.\nTake your first step toward becoming a confident and influential speaker! Check it out here!"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
