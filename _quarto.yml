@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  title: "drsaufi.github.io"
+  title: "Dr Saufi"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
@@ -15,6 +15,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
