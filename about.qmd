@@ -40,8 +40,8 @@ Over 10 years of experience in the medical and health fields, currently a studen
 
 **Statistical Analysis and Software**
 
-- Statistical Package for the Social Sciences (SPSS)
 - R Software (RStudio and Quarto)
+- Statistical Package for the Social Sciences (SPSS)
 
 **Microsoft Office Specialist: Associate (Office 365)**
 
