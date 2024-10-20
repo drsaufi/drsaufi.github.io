@@ -1,6 +1,6 @@
 ---
 title: "Dr Muhammad Saufi Abdullah"
-image: headshot.png
+image: images/headshot.png
 toc: false
 about: 
   template: jolla
@@ -10,9 +10,11 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/drsaufi/
+      target: _blank
     - icon: github
       text: GitHub
       href: https://github.com/drsaufi
+      target: _blank
     - icon: envelope
       text: Email
       href: mailto:drsaufimbbch@gmail.com
