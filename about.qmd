@@ -43,15 +43,15 @@ Over 10 years of experience in the medical and health fields, currently a studen
 - R Software (RStudio and Quarto)
 - Statistical Package for the Social Sciences (SPSS)
 
-**Microsoft Office Specialist: Associate (Office 365)**
-
-- Microsoft Office Specialist: Excel Associate (Office 365)
-- Microsoft Office Specialist: PowerPoint Associate (Office 365)
-- Microsoft Office Specialist: Word Associate (Office 365)
-
 **Public Speaking, Communication, and Leadership**
 
 - Speak to Breakthrough Masterclass 2024
 - Speak to Lead Masterclass 2024
 - Speak to Influence Masterclass 2024
 - Influential Impact Masterclass 2023
+
+**Microsoft Office Specialist: Associate (Office 365)**
+
+- Microsoft Office Specialist: Excel Associate (Office 365)
+- Microsoft Office Specialist: PowerPoint Associate (Office 365)
+- Microsoft Office Specialist: Word Associate (Office 365)
