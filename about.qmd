@@ -1,9 +1,30 @@
 ---
 title: "About"
+toc: false
+editor: visual
 ---
 
-About this site
+Medical Officer | Public Health | Epidemiology | Statistical Analysis | Public Speaking | Speaker & Author
 
-```{r}
-1 + 1
-```
+## Overview
+
+Over 10 years of experience in the medical and health fields, currently a student in Doctor of Public Health (Epidemiology) program. Experienced in delivering talks and leading workshops on epidemiology, statistical analysis, and public health. Actively involved in consultations and simplifying complex health topics for broader audiences. Passionate about teaching, sharing knowledge, and making data-driven solutions accessible to all.
+
+## Education
+
+**Doctor of Public Health (Epidemiology) | 2023 - Ongoing**
+
+- Department of Community Medicine
+- School of Medical Sciences
+- Universiti Sains Malaysia
+
+**Master of Public Health (MPH) | 2023**
+
+- Department of Community Medicine
+- School of Medical Sciences
+- Universiti Sains Malaysia
+
+**Bachelor of Medicine and Surgery (MBBCh) | 2013**
+
+- Kasr Al-Ainy Medical School
+- Cairo University
