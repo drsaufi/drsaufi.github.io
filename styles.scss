@@ -1,0 +1,11 @@
+/*-- scss:defaults --*/
+
+// Import fonts (define mainfont in _quarto.yml)
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+/*-- scss:rules --*/
+
+.navbar-brand img { 
+  max-height: 40px;
+  width: auto;
+}

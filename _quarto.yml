@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Dr Saufi"
-  favicon: images/mylogo_white.png
+  favicon: images/mylogo_white2.png
   navbar:
     title: false
     logo: images/mylogo_white.png
@@ -21,8 +21,10 @@ website:
 
 format:
   html:
-    theme: solar
-    css: styles.css
+    theme: 
+     - solar
+     - styles.scss
+    mainfont: Nunito
     toc: true
     page-layout: full
 
