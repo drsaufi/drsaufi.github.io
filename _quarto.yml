@@ -7,7 +7,7 @@ website:
   favicon: images/mylogo_white2.png
   navbar:
     title: false
-    logo: images/mylogo_white.png
+    logo: images/mylogo_white2.png
     right:
       - href: index.qmd
         text: Home
