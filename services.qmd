@@ -8,21 +8,25 @@ I am passionate about sharing knowledge, solving problems, and helping teams ach
 
 ## {{< fa chalkboard >}} Consultations and Workshops
 
+![](images/workshop.jpg){fig-align="center" width="450"}
+
 Looking for personalized advice or hands-on workshops? I am here to support you with tailored solutions for your research. Let’s dive into your project and find the best path forward!
 
-- Research Proposal Development
-- Statistical Analysis and Interpretation
-- Data Visualization and Reporting
-- Survey Design and Data Collection
-- Epidemiological Studies and Public Health Research
+-   Research Proposal Development
+-   Statistical Analysis and Interpretation
+-   Data Visualization and Reporting
+-   Survey Design and Data Collection
+-   Epidemiological Studies and Public Health Research
 
 ## {{< fa person-chalkboard >}} Talks and Presentations
 
+![](images/talk.jpg){fig-align="center" width="450"}
+
 Need an engaging speaker to inspire your team or audience? My talks are designed to inform, motivate, and ignite action. Let’s get started!
 
-- Public Health and Epidemiology
-- Statistical Analysis in Research
-- Health Promotion and Disease Prevention
-- Mental Health Awareness
-- Effective Communication and Team Building
-- Mastering Public Speaking and Presentation Skills
+-   Public Health and Epidemiology
+-   Statistical Analysis in Research
+-   Health Promotion and Disease Prevention
+-   Mental Health Awareness
+-   Effective Communication and Team Building
+-   Mastering Public Speaking and Presentation Skills
