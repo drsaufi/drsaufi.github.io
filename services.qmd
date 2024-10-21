@@ -1,6 +1,8 @@
 ---
 title: "Services"
-toc: false
+toc: true
+toc-title: "My Services"
+toc-location: left
 editor: visual
 ---
 

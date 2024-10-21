@@ -1,6 +1,8 @@
 ---
 title: "About"
-toc: false
+toc: true
+toc-title: "About Me"
+toc-location: left
 editor: visual
 ---
 
