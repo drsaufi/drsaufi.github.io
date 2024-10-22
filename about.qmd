@@ -14,46 +14,46 @@ Over 10 years of experience in the medical and health fields, currently a studen
 
 ## {{< fa graduation-cap >}} Education
 
-**Doctor of Public Health (Epidemiology) | 2023 - Ongoing**
+**Doctor of Public Health (Epidemiology) \| 2023 - Ongoing**
 
-- Department of Community Medicine
-- School of Medical Sciences
-- Universiti Sains Malaysia
+-   Department of Community Medicine
+-   School of Medical Sciences
+-   Universiti Sains Malaysia
 
-**Master of Public Health (MPH) | 2023**
+**Master of Public Health (MPH) \| 2023**
 
-- Department of Community Medicine
-- School of Medical Sciences
-- Universiti Sains Malaysia
+-   Department of Community Medicine
+-   School of Medical Sciences
+-   Universiti Sains Malaysia
 
-**Bachelor of Medicine and Surgery (MBBCh) | 2013**
+**Bachelor of Medicine and Surgery (MBBCh) \| 2013**
 
-- Kasr Al-Ainy Medical School
-- Cairo University
+-   Kasr Al-Ainy Medical School
+-   Cairo University
 
 ## {{< fa briefcase >}} Experience
 
 **Ministry of Health Malaysia**
 
-- Medical Officer | October 2016 - Present
-- House Officer | June 2014 - September 2016
+-   Medical Officer \| October 2016 - Present
+-   House Officer \| June 2014 - September 2016
 
 ## {{< fa book-open >}} Skills and Certifications
 
 **Statistical Analysis and Software**
 
-- R Software (RStudio and Quarto)
-- Statistical Package for the Social Sciences (SPSS)
+-   R Software (RStudio and Quarto)
+-   Statistical Package for the Social Sciences (SPSS)
 
 **Public Speaking, Communication, and Leadership**
 
-- Speak to Breakthrough Masterclass 2024
-- Speak to Lead Masterclass 2024
-- Speak to Influence Masterclass 2024
-- Influential Impact Masterclass 2023
+-   Speak to Breakthrough Masterclass 2024
+-   Speak to Lead Masterclass 2024
+-   Speak to Influence Masterclass 2024
+-   Influential Impact Masterclass 2023
 
 **Microsoft Office Specialist: Associate (Office 365)**
 
-- Microsoft Office Specialist: Excel Associate (Office 365)
-- Microsoft Office Specialist: PowerPoint Associate (Office 365)
-- Microsoft Office Specialist: Word Associate (Office 365)
+-   Microsoft Office Specialist: Excel Associate (Office 365)
+-   Microsoft Office Specialist: PowerPoint Associate (Office 365)
+-   Microsoft Office Specialist: Word Associate (Office 365)

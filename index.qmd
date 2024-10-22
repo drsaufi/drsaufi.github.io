@@ -20,7 +20,7 @@ about:
       href: mailto:drsaufimbbch@gmail.com
 ---
 
-I am passionate about **public health**, **epidemiology**, **statistical analysis**, and **public speaking**. I love simplifying complex topics and sharing knowledge through *workshops*, *ebooks*, and *health-related talks*. 
+I am passionate about **public health**, **epidemiology**, **statistical analysis**, and **public speaking**. I love simplifying complex topics and sharing knowledge through *workshops*, *ebooks*, and *health-related talks*.
 
 Whether it is teaching data skills or giving presentations on **public health**, I am always excited to help others understand the world of *health* and *data analysis* better.
 
