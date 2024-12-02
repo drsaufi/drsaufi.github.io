@@ -1,6 +1,6 @@
 ---
 title: "Dr Muhammad Saufi Abdullah"
-image: images/headshot.png
+image: images/headshot2.png
 toc: false
 about: 
   template: jolla
