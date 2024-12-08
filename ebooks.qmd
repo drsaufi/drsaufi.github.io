@@ -12,7 +12,7 @@ Explore my collection of ebooks designed to empower you in both data science and
 
 [![](images/rworkflow.png){fig-align="center" width="450"}](https://www.drsaufibooks.com/N_ShowDetails.aspx?qBookID=EA3535)
 
-Master the essentials of R and RStudio with ease! R Workflow Essentials is your go-to guide for learning the basics of coding in R, tailored specifically for beginners or anyone needing a refresher.
+Master the essentials of R and RStudio with ease! **R Workflow Essentials** is your go-to guide for learning the basics of coding in R, tailored specifically for beginners or anyone needing a refresher.
 
 This ebook simplifies the complexities of R, offering clear, engaging lessons that make learning fun and manageable. Whether you are stepping into RStudio for the first time or need a little help getting back on track, this guide will help you confidently navigate R and Quarto to kickstart your data analysis journey.
 
@@ -27,3 +27,11 @@ Unlock the power of effective communication with this practical guide. This eboo
 Whether you are just starting out or looking to refine your skills, this guide will show you how to captivate your audience, deliver your message with clarity, and leave a lasting impact in both professional and personal settings.
 
 Take your first step toward becoming a confident and influential speaker! Check it out [**here**](https://www.drsaufibooks.com/N_ShowDetails.aspx?qBookID=EA3527 "10 Tips for Becoming a Great Speaker")!
+
+## 5 Teknik Pantas Pengurusan Stres
+
+[![](images/stress.png){fig-align="center" width="450"}](https://www.drsaufibooks.com/N_ShowDetails.aspx?qBookID=EA3560)
+
+**5 Teknik Pantas Pengurusan Stres** merupakan panduan ringkas dan praktikal yang ditulis untuk membantu anda mengurus stres dengan berkesan dalam kehidupan seharian. E-buku ini membincangkan tanda-tanda dan punca stres sambil memperkenalkan lima teknik mudah yang sesuai untuk individu daripada pelbagai latar belakang. 
+
+Setiap teknik dilengkapi dengan penerangan jelas dan panduan langkah demi langkah, memudahkan anda untuk mengaplikasikannya dalam kehidupan harian. Mulakan langkah anda hari ini untuk menikmati kehidupan yang lebih tenang dan bermakna! Dapatkan di [**sini**](https://www.drsaufibooks.com/N_ShowDetails.aspx?qBookID=EA3560 "5 Teknik Pantas Pengurusan Stres")!
